@@ -6,3 +6,5 @@ I am learning Git and git Hub
 This is my second change
 
 this change made from devop1
+
+change notes on github
